@@ -1,1 +1,10 @@
 @import "tailwindcss";
+
+@font-face {
+  font-family: iranyekanBakh;
+  src: url(/fonts/Bakh-new/Yekan-Bakh-FaNum-04-Regular.ttf);
+}
+
+* {
+  font-family: iranyekanBakh !important;
+}
